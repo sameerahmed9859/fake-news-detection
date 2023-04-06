@@ -4,3 +4,4 @@ seaborn
 sklearn
 re 
 string
+nltk
